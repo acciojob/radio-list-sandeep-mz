@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+/* CSS to style radio buttons on even positions with red text color */
+label.odd{
+    color: red;
+}
+
+
+ 
